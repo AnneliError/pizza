@@ -1,0 +1,21 @@
+document.write('1 * 6 = ' + 1 * 6 + '<br/>');
+document.write('2 * 6 = ' + 2 * 6 + '<br/>');
+document.write('3 * 6 = ' + 3 * 6 + '<br/>');
+document.write('4 * 6 = ' + 4 * 6 + '<br/>');
+document.write('5 * 6 = ' + 5 * 6 + '<br/>');
+document.write('6 * 6 = ' + 6 * 6 + '<br/>');
+document.write('7 * 6 = ' + 7 * 6 + '<br/>');
+document.write('8 * 6 = ' + 8 * 6 + '<br/>');
+document.write('9 * 6 = ' + 9 * 6 + '<br/>');
+document.write('10 * 6 = ' + 10 * 6 + '<br/>');
+
+document.write('1 * 3 = ' + 1 * 3 + '<br/k');
+document.write('2 * 3 = ' + 2 * 3 + '<br/>');
+document.write('3 * 3 = ' + 3 * 3 + '<br/>');
+document.write('4 * 3 = ' + 4 * 3 + '<br/>');
+document.write('5 * 3 = ' + 5 * 3 + '<br/>');
+document.write('6 * 3 = ' + 6 * 3 + '<br/>');
+document.write('7 * 3 = ' + 7 * 3 + '<br/k');
+document.write('8 * 3 = ' + 8 * 3 + '<br/>');
+document.write('9 * 3 = ' + 9 * 3 + '<br/>');
+document.write('10 * 3 = ' + 10 * 3 + '<br/>');
